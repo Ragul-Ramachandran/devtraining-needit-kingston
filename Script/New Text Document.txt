@@ -1,0 +1,3 @@
+@echo off
+Powershell.exe set-executionpolicy remotesigned -File  E:\Script\WindowaRunningApp
+pause
